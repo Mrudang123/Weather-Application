@@ -1,0 +1,8 @@
+127.0.0.1 - - [16/Jul/2024:01:22:12 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [16/Jul/2024:01:22:13 +0530] "GET /WeatherApp/index.html HTTP/1.1" 200 1088
+0:0:0:0:0:0:0:1 - - [16/Jul/2024:01:22:13 +0530] "GET /WeatherApp/style.css HTTP/1.1" 200 2334
+0:0:0:0:0:0:0:1 - - [16/Jul/2024:01:22:13 +0530] "GET /WeatherApp/images/weather-logo.png HTTP/1.1" 200 56986
+0:0:0:0:0:0:0:1 - - [16/Jul/2024:01:22:14 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [16/Jul/2024:01:22:29 +0530] "POST /WeatherApp/MyServlet HTTP/1.1" 200 2444
+0:0:0:0:0:0:0:1 - - [16/Jul/2024:01:22:29 +0530] "GET /WeatherApp/myScript.js HTTP/1.1" 200 2139
+0:0:0:0:0:0:0:1 - - [16/Jul/2024:01:23:14 +0530] "POST /WeatherApp/MyServlet HTTP/1.1" 200 2445
